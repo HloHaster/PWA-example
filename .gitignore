@@ -1,4 +1,5 @@
 .DS_Store
+.github
 node_modules
 /dist
 
@@ -15,6 +16,7 @@ pnpm-debug.log*
 
 # Editor directories and files
 .idea
+.firebase
 .vscode
 *.suo
 *.ntvs*
